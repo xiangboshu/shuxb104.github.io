@@ -47,34 +47,34 @@ Video understanding, Action analysis, Face analysis, and related human-centric p
 <span class='anchor' id='pub'></span>
 
 # Selected Publications 
-- Rui Yan , Lingxi Xie , **Xiangbo Shu** , Senior Member, IEEE, Liyan Zhang. Progressive Instance-Aware Feature Learning for Compositional Action Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI), 2023.[PDF-Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10082892)
+- Rui Yan , Lingxi Xie , **Xiangbo Shu** , Senior Member, IEEE, Liyan Zhang. Progressive Instance-Aware Feature Learning for Compositional Action Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI), 2023.[PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/PIAF.pdf)
 
-- **Xiangbo Shu**, Binqian Xu, Liyan Zhang, Jinhui Tang. Multi-Granularity Anchor-Contrastive Representation Learning for Semi-supervised Skeleton-based Action Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022. [PDF-Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9954217)
+- **Xiangbo Shu**, Binqian Xu, Liyan Zhang, Jinhui Tang. Multi-Granularity Anchor-Contrastive Representation Learning for Semi-supervised Skeleton-based Action Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022. [PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/MGAC.pdf)
 
-- Jinhui Tang, **Xiangbo Shu\***, Rui Yan, and Liyan Zhang. Coherence Constrained Graph LSTM for Group Activity Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022.(CCF A类期刊),**(ESI高被引论文)**,**(ESI热点论文)**[PDF-Link](https://arxiv.org/pdf/1909.13245.pdf)
+- Jinhui Tang, **Xiangbo Shu\***, Rui Yan, and Liyan Zhang. Coherence Constrained Graph LSTM for Group Activity Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022.(CCF A类期刊),**(ESI高被引论文)**,**(ESI热点论文)**[PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/CCGL.pdf)
 
-- **Xiangbo Shu**, Liyan Zhang*, Guo-Jun Qi, Wei Liu, and Jinhui Tang. Spatiotemporal co-attention recurrent neural networks for human-skeleton motion prediction. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021. (CCF A类期刊),**(ESI高被引论文)**[PDF-Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9321130),
+- **Xiangbo Shu**, Liyan Zhang*, Guo-Jun Qi, Wei Liu, and Jinhui Tang. Spatiotemporal co-attention recurrent neural networks for human-skeleton motion prediction. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021. (CCF A类期刊),**(ESI高被引论文)**[PDF-Link](https://arxiv.org/pdf/1909.13245.pdf),
 
-- **Xiangbo Shu**, Liyan Zhang, Yunlian Sun, and Jinhui Tang. Host-Parasite: Graph LSTM-In-LSTM for Group Activity Recognition. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021.(CCF A类期刊),**(ESI高被引论文)**[PDF-Link](https://arxiv.org/pdf/1811.00270.pdf)
+- **Xiangbo Shu**, Liyan Zhang, Yunlian Sun, and Jinhui Tang. Host-Parasite: Graph LSTM-In-LSTM for Group Activity Recognition. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021.(CCF A类期刊),**(ESI高被引论文)**[PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/HPGL.pdf)
 
 - **Xiangbo Shu**, Jinhui Tang, Guo-Jun Qi, Wei Liu, and Jian Yang. Hierarchical Long Short-Term Concurrent Memory for Human Interaction Recognition. IEEE Transacti on Pattern Analysis and Machine Intelligence (TPAMI), 2021.(CCF A类期刊),**(ESI高被引论文)**,**(ESI热点论文)** [PDF-Link](https://arxiv.org/pdf/1811.00270.pdf)
 
 	
-- Jinhui Tang, **Xiangbo Shu\***, Zechao Li, Yu-Gang Jiang, Qi Tian.Social Anchor-Unit Graph Regularized Tensor Completion for Large-Scale Image Retagging.IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI), 2019.[PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/master/paper/SUGAR2019.pdf)
+- Jinhui Tang, **Xiangbo Shu\***, Zechao Li, Yu-Gang Jiang, Qi Tian.Social Anchor-Unit Graph Regularized Tensor Completion for Large-Scale Image Retagging.IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI), 2019.[PDF-Link](https://arxiv.org/pdf/1804.04397.pdf)
 
-- **Xiangbo Shu**, Jinhui Tang, Zechao Li, Hanjiang Lai, Liyan Zhang, and Shuicheng Yan. Personalized Age Progression with Bi-level Aging Dictionary Learning. IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI), 40(4): 905 – 917, 2018.(CCF A类期刊)[PDF-Link](https://arxiv.org/pdf/1811.00270.pdf)
+- **Xiangbo Shu**, Jinhui Tang, Zechao Li, Hanjiang Lai, Liyan Zhang, and Shuicheng Yan. Personalized Age Progression with Bi-level Aging Dictionary Learning. IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI), 40(4): 905 – 917, 2018.(CCF A类期刊)[PDF-Link](https://arxiv.org/pdf/1706.01039.pdf)
 
 - **Xiangbo Shu**, Liyan Zhang, Jinhui Tang, Guo-Sen Xie, Shuicheng Yan.Image Classification with Tailored Fine-Grained Dictionaries.IEEE Transactions on Circuits and Systems for Video Technology(TCSVT), 2018.[PDF-Link](https://web.archive.org/web/20170517065942id_/http://www.yugangjiang.info:80/publication/TCSVT-Shu.pdf)
 
-- Rui Yan, Jinhui Tang, **Xiangbo Shu**, Zechao Li, Qi Tian.Participation-Contributed Temporal Dynamic Model for Group Activity Recognition.ACM MultiMedia (MM), 2018 (Oral paper)[PDF-Link](https://www.researchgate.net/profile/Rui-Yan-23/publication/328372578_Participation-Contributed_Temporal_Dynamic_Model_for_Group_Activity_Recognition/links/5bed27684585150b2bb79e69/Participation-Contributed-Temporal-Dynamic-Model-for-Group-Activity-Recognition.pdf)
+- Rui Yan, Jinhui Tang, **Xiangbo Shu**, Zechao Li, Qi Tian.Participation-Contributed Temporal Dynamic Model for Group Activity Recognition.ACM MultiMedia (MM), 2018 (Oral paper)[PDF-Link](https://shuxb104.github.io/paper/PCTDM.pdf)
 
-- Jinhui Tang, **Xiangbo Shu**, Guo-Jun Qi, Zechao Li, Meng Wang, Shuicheng Yan, Ramesh Jain.	Tri-Clustered Tensor Completion for Social-Aware Image Tag Refinement.IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI), 2017.[PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/master/paper/Tri-Clustered%20Tensor%20Completion%20for%20Social-Aware%20Image%20Tag%20Refinement.pdf)
+- Jinhui Tang, **Xiangbo Shu**, Guo-Jun Qi, Zechao Li, Meng Wang, Shuicheng Yan, Ramesh Jain.	Tri-Clustered Tensor Completion for Social-Aware Image Tag Refinement.IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI), 2017.[PDF-Link](https://shuxb104.github.io/paper/TTCforTR.pdf)
 
-- **Xiangbo Shu**, Jinhui Tang, Guo-Jun Qi, Zechao Li, Yu-Gang Jiang and Shuicheng Yan.Computational Face Reader.ACM Multimedia(MM), 2015.[PDF-Link 待补充](baidu.com)
+- **Xiangbo Shu**, Jinhui Tang, Guo-Jun Qi, Zechao Li, Yu-Gang Jiang and Shuicheng Yan.Computational Face Reader.ACM Multimedia(MM), 2015.[PDF-Link](https://link.springer.com/chapter/10.1007/978-3-319-27671-7_10)
 
-- **Xiangbo Shu**, Guo-Jun Qi, Jinhui Tang, Jingdong Wang.Weekly-Shared Deep Transfer Networks for Heterogeneous-Domain Knowledge Propagation.ACM Multimedia(MM), 2015.[PDF-Link](https://shuxb104.github.io/paper/Weakly-Shared%20Deep%20Transfer%20Networks%20for%20Heterogeneous-Domain%20Knowledge%20Propagation.pdf)
+- **Xiangbo Shu**, Guo-Jun Qi, Jinhui Tang, Jingdong Wang.Weekly-Shared Deep Transfer Networks for Heterogeneous-Domain Knowledge Propagation.ACM Multimedia(MM), 2015.[PDF-Link](https://shuxb104.github.io/paper/WSDT.pdf)
 
-- **Xiangbo Shu**, Jinhui Tang, Hanjiang Lai, Luoqi Liu, Shuicheng Yan.Weekly-Shared Deep Transfer Networks for Heterogeneous-Domain Knowledge Propagation.IEEE International Conference on Computer Vision (ICCV), 2015.[PDF-Link](https://openaccess.thecvf.com/content_iccv_2015/papers/Shu_Personalized_Age_Progression_ICCV_2015_paper.pdf)
+- **Xiangbo Shu**, Jinhui Tang, Hanjiang Lai, Luoqi Liu, Shuicheng Yan.Personalized Age Progression with Aging Dictionary.IEEE International Conference on Computer Vision (ICCV), 2015.[PDF-Link](https://openaccess.thecvf.com/content_iccv_2015/papers/Shu_Personalized_Age_Progression_ICCV_2015_paper.pdf)
 
 
 For more papers, please kindly refer to [my Google Scholar page](https://scholar.google.com.hk/citations?user=FQfcm5oAAAAJ&hl=zh-CN&oi=ao).
