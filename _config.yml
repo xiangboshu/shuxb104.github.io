@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Xiangbo Shu"
 description              : "Ph.D., Professor "
-repository               : "jucaijiang/jucaijiang.github.io"
+repository               : "shuxb104/shuxb104.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,16 +21,16 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiangbo Shu"
+  name             : "Xiangbo Shu             "
   avatar           : "images/ShuXB.png"
   bio              : 
   location         : "Nanjing, P.R.China"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FQfcm5oAAAAJ"
   email            : "shuxb@njust.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : " http://202.119.85.163/open/TutorInfo.aspx?dsbh=aE30wCkG0tM6Gghyn93SpQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk= "
   bitbucket        :
   codepen          :
   dribbble         :
