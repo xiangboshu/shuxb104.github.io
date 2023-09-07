@@ -17,33 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-I am currently a Professor in [Intelligent Media Analysis Group (IMAG)](https://imag-njust.net/), at School of Computer Science and Engineering, Nanjing University of Science and Technology, China. I received the Ph.D. degree from School of Computer Science and Engineering, Nanjing University of Science and Technology, China, under the supervisor Prof. Jinhui Tang, a leader professor of Intelligent Media Analysis Group (IMAG). From Aug. 2014 to Aug. 2015, I am also an visiting scholar supervised by Prof. Shuicheng Yan in [Learning and Vision Research Group](http://www.lv-nus.org/) at the Department of Electrical and Computer Engineering, National University of Singapore. I am and the CCF Senior Member, and ACM Member, and IEEE Senior Member.<br>
-
+<p style="text-align: justify;">
+I am currently a Professor in [Intelligent Media Analysis Group (IMAG)](https://imag-njust.net/), at School of Computer Science and Engineering, Nanjing University of Science and Technology, China. I received the Ph.D. degree from School of Computer Science and Engineering, Nanjing University of Science and Technology, China, under the supervisor Prof. Jinhui Tang, a leader professor of Intelligent Media Analysis Group (IMAG). From Aug. 2014 to Aug. 2015, I am also an visiting scholar supervised by Prof. Shuicheng Yan in [Learning and Vision Research Group](http://www.lv-nus.org/) at the Department of Electrical and Computer Engineering, National University of Singapore. I am and the CCF Senior Member, and ACM Member, and IEEE Senior Member
+</p>
 <span class='anchor' id='r-interests'></span>
 
 # Researh Interests
 Video understanding, Action analysis, Face analysis, and related human-centric problems in Computer Vision and Multimedia.
 <br>
-*<font color=Brown>I am currently looking for motivated PhD students working on the above strong interests. If interested, kindly contact me via email.</font>*
-
-
-
-<span class='anchor' id='events'></span>
-
-# Events
-+ 2023.04 : Organized the ChinaMM 2023 special forum, as one of the members of the organization.
-+ 2022.06 : Paper *Multi-Granularity Anchor-Contrastive Representation Learning for Semi-Supervised Skeleton-Based Action Recognition* has been accepted by TPAMI.
-+ 2021.01 : Paper *Spatiotemporal Co-Attention Recurrent Neural Networks for Human-Skeleton Motion Prediction* has been accepted by TPAMI.
-+ 2020.04 : Paper *Host–Parasite: Graph LSTM-in-LSTM for Group Activity Recognition* has been accepted by TNNLS.
-+ 2019.09 : Paper *Hierarchical Long Short-Term Concurrent Memory for Human Interaction Recognition* has been accepted by TPAMI.
-+ 2017.05 : Paper *Personalized Age Progression with Bi-level Aging Dictionary Learning* has been accepted by TPAMI.
-+ 2016.09 : Paper *Computational Face Reader* has been accepted by MMM.
-+ 2016.01 : Paper *Image Classification With Tailored Fine-Grained Dictionaries* has been accepted by TCSVT.
-+ 2015.12 : Paper *Personalized Age Progression with Aging Dictionary* by ICCV.
-+ 2015.10 : Paper *Weekly-Shared Deep Transfer Networks for Heterogeneous-Domain Knowledge Propagation* by ACMMM.
-
-
+<font color=Brown>
+<i >*Positions for Interns/Master/Ph.D's Programme*</i>
+<br>
+ <i>We are looking for students, who are self-motivated and have a solid foundation in mathematics and programming. Please feel free to drop me an email (shuxb@njust.edu.cn) if you are interested.</i>
+</font>
 
 <span class='anchor' id='pub'></span>
 
@@ -109,23 +95,19 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 <span class='anchor' id='group'></span>
 
 # Group
-+ <font color=Red>Positions for Interns/Master/Ph.D's Programme</font>
-  + We are looking for students, who are self-motivated and have a solid foundation in mathematics and programming. Please feel free to drop me an email (shuxb@njust.edu.cn) if you are interested.
-+ Current Members:
-  + Ph.D. (2013-2020) , Mengyin Wang , now at Dalian Minzu University;
-  + Ph.D. (2021-2023) , Binqian Xu , now studying for a PhD at Nanjing University of Science and Technology;
-  + Ph.D. (2022-now) , Guangzhao Dai , now studying for a PhD at Nanjing University of Science and Technology;
-  + Ph.D. (2023-now) , Pengpeng Li , now studying for a PhD at NanjingUniversity of Science and Technology;
-  + Ph.D. (2023-now) , Meiqi Cao , now studying for a PhD at NanjingUniversity of Science and Technology;
-  + master (2018-2021), Chenglong Shi , now at Dada Express.
-  + master (2018-2021), Ruipeng Zhang , now at Ningbo National Security Bureau.
-  + master (2019-2022), Jing Ding, now at Alibaba Corporation.
-  + master (2019-2022), Boning Li, now at Shenyang Fire Research Institute of Ministry of Public Security.
-  + master (2019-2022), Qian Jiang, now at H3C.
-  + master (2019-2022), Xiangyu Zhao, now at Zhongxing Telecom Equipment.
-  + master (2021-2023), Jiawen Yang, now at Asiainfo Security Technologies Co., Ltd.
-  + master (2021-2023), Yafei Cui, now at Hithink RoyalFlush Information Network Co., Ltd.
-
++ Group Members:
+  + Ph.D. (2020-now) , Peng Huang.
+  + Ph.D. (2022-now) , Guangzhao Dai .
+  + Ph.D. (2023-now) , Pengpeng Li , Meiqi Cao.
+  + master (2021-now), Keke Chen , Zhewei Tu.
+  + master (2022-now), Hailiang Gao , Wei Liu , Yunguo Ma.
+  + master (2023-now), Jinjin Gong , Luying Peng , Hongyu Qu , Yumeng Su.
++ Former Members:
+  + Ph.D. (2013-2020) , Mengyin Wang.
+  + Ph.D. (2021-2023) , Binqian Xu.
+  + master (2018-2021), Chenglong Shi , Ruipeng Zhang.
+  + master (2019-2022), Jing Ding , Boning Li , Qian Jiang , Xiangyu Zhao.
+  + master (2021-2023), Jiawen Yang , Yafei Cui.
 <span class='anchor' id='Service'></span>
 
 # Academic Service
