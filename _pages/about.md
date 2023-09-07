@@ -19,7 +19,7 @@ redirect_from:
 
 <p style="text-align: justify;">
 I am currently a Professor in 
-<a href="https://imag-njust.net/">Intelligent Media Analysis Group(IMAG)</a>, at School of Computer Science and Engineering, Nanjing University of Science and Technology, China. I received the Ph.D. degree from School of Computer Science and Engineering, Nanjing University of Science and Technology, China, under the supervisor Prof. Jinhui Tang, a leader professor of Intelligent Media Analysis Group (IMAG). From Aug. 2014 to Aug. 2015, I am also an visiting scholar supervised by Prof. Shuicheng Yan in <a href="http://www.lv-nus.org/"> Learning and Vision Research Group</a> at the Department of Electrical and Computer Engineering, National University of Singapore. I am and the CCF Senior Member, and ACM Member, and IEEE Senior Member.
+<a href="https://imag-njust.net/">Intelligent Media Analysis Group(IMAG)</a>, at School of Computer Science and Engineering, Nanjing University of Science and Technology, China. I received the Ph.D. degree from School of Computer Science and Engineering, Nanjing University of Science and Technology, China, under the supervisor Prof. Jinhui Tang, a leader professor of Intelligent Media Analysis Group (IMAG). Previously, I am also an visiting scholar supervised by Prof. Shuicheng Yan in <a href="http://www.lv-nus.org/"> Learning and Vision Research Group</a> at the Department of Electrical and Computer Engineering, National University of Singapore. I am and the CCF Senior Member, and ACM Member, and IEEE Senior Member.
 </p>
 <span class='anchor' id='r-interests'></span>
 
