@@ -64,7 +64,7 @@ Video understanding, Action analysis, Face analysis, and related human-centric p
 
 - Jinhui Tang, **Xiangbo Shu**, Guo-Jun Qi, Zechao Li, Meng Wang, Shuicheng Yan, Ramesh Jain.	Tri-Clustered Tensor Completion for Social-Aware Image Tag Refinement. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017. [PDF-Link](https://shuxb104.github.io/paper/TTCforTR.pdf)
 
-- **Xiangbo Shu**, Liyan Zhang, Jinhui Tang, Guosen Xie, Shuicheng Yan. Computational Face Reader. MultiMedia Modeling (MMM), 2015. [PDF-Link](https://link.springer.com/chapter/10.1007/978-3-319-27671-7_10)
+- **Xiangbo Shu**, Liyan Zhang, Jinhui Tang, Guo-sen Xie, Shuicheng Yan. Computational Face Reader. MultiMedia Modeling (MMM), 2015. [PDF-Link](https://link.springer.com/chapter/10.1007/978-3-319-27671-7_10)
 
 - **Xiangbo Shu**, Guo-Jun Qi, Jinhui Tang, Jingdong Wang. Weekly-Shared Deep Transfer Networks for Heterogeneous-Domain Knowledge Propagation. ACM Multimedia (MM), 2015. [PDF-Link](https://shuxb104.github.io/paper/WSDT.pdf)
 
