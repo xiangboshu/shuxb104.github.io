@@ -115,6 +115,7 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
   + M.S. Candidates (2023-now), Jinjin Gong , Luying Peng , Hongyu Qu , Yumeng Su.
 + Alumni:
   + Ph.D. Candidates (2013-2020), Mengyin Wang.
+  + Ph.D. Candidates (2017-2022), Rui Yan.
   + M.S. Candidates (2018-2021), Chenglong Shi , Ruipeng Zhang.
   + M.S. Candidates (2019-2022), Jing Ding , Boning Li , Qian Jiang , Xiangyu Zhao.
   + M.S. Candidates (2021-2023), Jiawen Yang , Yafei Cui.
