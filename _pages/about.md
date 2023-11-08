@@ -41,7 +41,7 @@ Video understanding, Action analysis, Face analysis, and related human-centric p
 
 # <font color="#2B6ADD"> Selected Publications </font>
 
-- Rui Yan , Lingxi Xie , **Xiangbo Shu** , Senior Member, IEEE, Liyan Zhang. Progressive Instance-Aware Feature Learning for Compositional Action Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. [PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/PIAF.pdf) 
+- Rui Yan , Lingxi Xie , **Xiangbo Shu** , Liyan Zhang， Jinhui Tang. Progressive Instance-Aware Feature Learning for Compositional Action Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. [PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/PIAF.pdf) 
 
 - **Xiangbo Shu**, Binqian Xu, Liyan Zhang, Jinhui Tang. Multi-Granularity Anchor-Contrastive Representation Learning for Semi-supervised Skeleton-based Action Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022. [PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/MGAC.pdf) [[Code-Link]](https://github.com/1xbq1/MAC-Learning)
 
