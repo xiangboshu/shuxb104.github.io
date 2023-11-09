@@ -99,19 +99,19 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 
 # <font color="#2B6ADD"> Team </font>
 + Current Member:
-  + Ph.D. Candidates (2020-now), Peng Huang.
-  + Ph.D. Candidates (2021-now), Binqian Xu.
-  + Ph.D. Candidates (2022-now), Guangzhao Dai.
-  + Ph.D. Candidates (2023-now), Pengpeng Li , Meiqi Cao.
-  + M.S. Candidates (2021-now), Keke Chen , Zhewei Tu.
-  + M.S. Candidates (2022-now), Hailiang Gao , Wei Liu , Yunguo Ma.
-  + M.S. Candidates (2023-now), Jinjin Gong , Luying Peng , Hongyu Qu , Yumeng Su.
+  + Ph.D. Candidates (2020-now), Peng Huang
+  + Ph.D. Candidates (2021-now), Binqian Xu
+  + Ph.D. Candidates (2022-now), Guangzhao Dai
+  + Ph.D. Candidates (2023-now), Pengpeng Li, Meiqi Cao
+  + M.S. Candidates (2021-now), Keke Chen, Zhewei Tu
+  + M.S. Candidates (2022-now), Hailiang Gao, Wei Liu, Yunguo Ma
+  + M.S. Candidates (2023-now), Jinjin Gong, Luying Peng, Hongyu Qu, Yumeng Su
 + Alumni:
-  + Ph.D. Candidates (2013-2020), Mengyin Wang.
-  + Ph.D. Candidates (2017-2022), Rui Yan.
-  + M.S. Candidates (2018-2021), Chenglong Shi , Ruipeng Zhang.
-  + M.S. Candidates (2019-2022), Jing Ding , Boning Li , Qian Jiang , Xiangyu Zhao.
-  + M.S. Candidates (2021-2023), Jiawen Yang , Yafei Cui.
+  + Ph.D. Candidates (2013-2020), Mengyin Wang
+  + Ph.D. Candidates (2017-2022), Rui Yan
+  + M.S. Candidates (2018-2021), Chenglong Shi, Ruipeng Zhang
+  + M.S. Candidates (2019-2022), Jing Ding, Boning Li, Qian Jiang, Xiangyu Zhao
+  + M.S. Candidates (2021-2023), Jiawen Yang, Yafei Cui
 <span class='anchor' id='Service'></span>
 
 # <font color="#2B6ADD"> Academic Service </font>
@@ -128,15 +128,20 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
   - International Joint Conference on Artificial Intelligence (IJCAI)
 + **Reviewer for Journals:**
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  - International Journal of Computer Vision (IJCV)
+  - IEEE Transactions on Image Processing (TIP)
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - ACM Transactions on Knowledge Discovery from Data (TKDD)
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - IEEE Transactions on Multimedia (TMM)
+  - IEEE Transactions on Medical Imaging (TMI)
   - IEEE Transactions on Information Forensics and Security (TIFS)
+  - IEEE Transactions on Big Data (TBD)
+  - ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-  - Pattern Recognition- Elsevier
-  - Pattern Analysis and Applications - Springer
-  - Neurocomputing - Elsevier
-  - Multimedia Tools and Applications- Springer
-  - Pattern Recognition Letters - Elsevier
+  - Pattern Recognition
+  - Pattern Analysis and Applications
+  - Multimedia Tools and Applications
+  - Pattern Recognition Letters
+  - Multimedia Systems
 
