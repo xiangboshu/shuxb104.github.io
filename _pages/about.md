@@ -41,7 +41,7 @@ Video understanding, Action analysis, Face analysis, and related human-centric p
 
 # <font color="#2B6ADD"> Selected Publications </font>
 
-- **Xiangbo Shu**, Binqian Xu, Liyan Zhang, Jinhui Tang. Multi-Granularity Anchor-Contrastive Representation Learning for Semi-supervised Skeleton-based Action Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022. [PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/MGAC.pdf) [[Code-Link]](https://github.com/1xbq1/MAC-Learning)
+- **Xiangbo Shu**, Binqian Xu, Liyan Zhang, Jinhui Tang. Multi-Granularity Anchor-Contrastive Representation Learning for Semi-supervised Skeleton-based Action Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. [PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/MGAC.pdf) [[Code-Link]](https://github.com/1xbq1/MAC-Learning)
 
 - Jinhui Tang, **Xiangbo Shu\***, Rui Yan, and Liyan Zhang. Coherence Constrained Graph LSTM for Group Activity Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022. (CCF A类期刊), **(ESI高被引论文)**, **(ESI热点论文)** [PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/CCGL.pdf)
 
