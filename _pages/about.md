@@ -140,6 +140,7 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
   - IEEE Transactions on Medical Imaging (TMI)
   - IEEE Transactions on Information Forensics and Security (TIFS)
   - IEEE Transactions on Big Data (TBD)
+  - ACM Transactions on Intelligent Systems and Technology (TIST)
   - ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - Pattern Recognition
