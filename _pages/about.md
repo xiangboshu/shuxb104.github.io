@@ -75,6 +75,7 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 <span class='anchor' id='ha'></span>
 
 # <font color="#2B6ADD"> Honors and Awards </font>
+- 2022 Distinguished Reviewer of IEEE TMI
 - 2022 Outstanding Reviewer of IEEE TNNLS
 - 2022 国家优秀青年基金
 - 2021 江苏省杰出青年科学基金
