@@ -41,15 +41,15 @@ Video understanding, Action analysis, and related human-centric problems in Comp
 
 # <font color="#2B6ADD"> Selected Publications </font>
 
-- **Xiangbo Shu**, Binqian Xu, Liyan Zhang, Jinhui Tang. Multi-Granularity Anchor-Contrastive Representation Learning for Semi-supervised Skeleton-based Action Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. **(ESI highly cited papers)** [PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/MGAC.pdf) [[Code-Link]](https://github.com/1xbq1/MAC-Learning)
+- **Xiangbo Shu**, Binqian Xu, Liyan Zhang, Jinhui Tang. Multi-Granularity Anchor-Contrastive Representation Learning for Semi-supervised Skeleton-based Action Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. **(ESI Highly Cited Paper)** [PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/MGAC.pdf) [[Code-Link]](https://github.com/1xbq1/MAC-Learning)
 
-- Jinhui Tang, **Xiangbo Shu\***, Rui Yan, and Liyan Zhang. Coherence Constrained Graph LSTM for Group Activity Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022. **(ESI highly cited papers)**, **(ESI热点论文)** [PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/CCGL.pdf)
+- Jinhui Tang, **Xiangbo Shu\***, Rui Yan, and Liyan Zhang. Coherence Constrained Graph LSTM for Group Activity Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022. **(ESI Highly Cited Paper)**, **(ESI Hot Paper)** [PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/CCGL.pdf)
 
-- **Xiangbo Shu**, Liyan Zhang*, Guo-Jun Qi, Wei Liu, and Jinhui Tang. Spatiotemporal co-attention recurrent neural networks for human-skeleton motion prediction. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021. **(ESI highly cited papers)** [PDF-Link](https://arxiv.org/pdf/1909.13245.pdf),
+- **Xiangbo Shu**, Liyan Zhang*, Guo-Jun Qi, Wei Liu, and Jinhui Tang. Spatiotemporal co-attention recurrent neural networks for human-skeleton motion prediction. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021. **(ESI Highly Cited Paper)** [PDF-Link](https://arxiv.org/pdf/1909.13245.pdf),
 
-- **Xiangbo Shu**, Liyan Zhang, Yunlian Sun, and Jinhui Tang. Host-Parasite: Graph LSTM-In-LSTM for Group Activity Recognition. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021. **(ESI highly cited papers)** [PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/HPGL.pdf)
+- **Xiangbo Shu**, Liyan Zhang, Yunlian Sun, and Jinhui Tang. Host-Parasite: Graph LSTM-In-LSTM for Group Activity Recognition. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021. **(ESI Highly Cited Paper)** [PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/HPGL.pdf)
 
-- **Xiangbo Shu**, Jinhui Tang, Guo-Jun Qi, Wei Liu, and Jian Yang. Hierarchical Long Short-Term Concurrent Memory for Human Interaction Recognition. IEEE Transacti on Pattern Analysis and Machine Intelligence (TPAMI), 2021. **(ESI highly cited papers)**, **(ESI热点论文)** [PDF-Link](https://arxiv.org/pdf/1811.00270.pdf)
+- **Xiangbo Shu**, Jinhui Tang, Guo-Jun Qi, Wei Liu, and Jian Yang. Hierarchical Long Short-Term Concurrent Memory for Human Interaction Recognition. IEEE Transacti on Pattern Analysis and Machine Intelligence (TPAMI), 2021. **(ESI Highly Cited Paper)**, **(ESI Hot Paper)** [PDF-Link](https://arxiv.org/pdf/1811.00270.pdf)
 
 - Jinhui Tang, **Xiangbo Shu\***, Zechao Li, Yu-Gang Jiang, Qi Tian. Social Anchor-Unit Graph Regularized Tensor Completion for Large-Scale Image Retagging. IEEE Transactions on Pattern Analysis and Machine Intelligenc (TPAMI), 2019. [PDF-Link](https://arxiv.org/pdf/1804.04397.pdf)
 
