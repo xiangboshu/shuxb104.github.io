@@ -80,7 +80,7 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 - 2022 National Science Fund for Excellent Young Scholars by NSFC (国家优秀青年基金)
 - 2021 Jiangsu Province Science Fund for Outstanding Young Scholars (江苏省杰出青年科学基金)
 - 2017 CCF-Tencent Open Fund
-- 2017 Excellent Doctoral Dissertation of Chinese Association for Artificial Intelligence (CAAI)
+- 2017 Excellent Doctoral Dissertation of CAAI (中国人工智能学会优博)
 - 2017 Excellent Doctoral Dissertation of Jiangsu Province, China
 - 2017 Excellent Doctoral Dissertation of Jiangsu Computer Society, China
 - 2017 Excellent Doctoral Dissertation of Nanjing University of Science and Technology, China
