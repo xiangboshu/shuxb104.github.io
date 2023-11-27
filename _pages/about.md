@@ -128,7 +128,6 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
   - AAAI Conference on Artificial Intelligence (AAAI)
   - International Joint Conference on Artificial Intelligence (IJCAI)
   - International Conference on Multimedia and Expo (ICME)
-  - 
 + **Reviewer for Journals:**
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   - International Journal of Computer Vision (IJCV)
