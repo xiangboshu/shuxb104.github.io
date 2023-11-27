@@ -144,10 +144,13 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
   - ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
+  - IEEE Transactions on Visualization and Computer Graphics (TVCG)
   - Pattern Recognition
+  - Neural Networks
   - Information Sciences
   - Pattern Analysis and Applications
   - Multimedia Tools and Applications
   - Pattern Recognition Letters
   - Multimedia Systems
+  
 
