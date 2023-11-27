@@ -57,7 +57,7 @@ Video understanding, Action analysis, and related human-centric problems in Comp
 
 - **Xiangbo Shu**, Liyan Zhang, Jinhui Tang, Guo-Sen Xie, Shuicheng Yan. Image Classification with Tailored Fine-Grained Dictionaries. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2018. [PDF-Link](https://web.archive.org/web/20170517065942id_/http://www.yugangjiang.info:80/publication/TCSVT-Shu.pdf)
 
-- **Xiangbo Shu**, Liyan Zhang, Jinhui Tang, Guo-sen Xie, Shuicheng Yan. Computational Face Reader. MultiMedia Modeling (MMM), 2015. [PDF-Link](https://link.springer.com/chapter/10.1007/978-3-319-27671-7_10)
+- **Xiangbo Shu**, Liyan Zhang, Jinhui Tang, Guo-Sen Xie, Shuicheng Yan. Computational Face Reader. MultiMedia Modeling (MMM), 2015. [PDF-Link](https://link.springer.com/chapter/10.1007/978-3-319-27671-7_10)
 
 - **Xiangbo Shu**, Guo-Jun Qi, Jinhui Tang, Jingdong Wang. Weekly-Shared Deep Transfer Networks for Heterogeneous-Domain Knowledge Propagation. ACM Multimedia (MM), 2015. [PDF-Link](https://shuxb104.github.io/paper/WSDT.pdf)
 
