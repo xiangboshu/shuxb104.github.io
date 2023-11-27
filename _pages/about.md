@@ -92,9 +92,9 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 <span class='anchor' id='teach'></span>
 
 # <font color="#2B6ADD"> Teaching </font>
-- **2019-now**, Fundamentals of Multimedia Computing, for Postgraduate.
-- **2016-now**, Technology of Multimedia Computing, for Undergraduate.
-- **2019-now**, Introduction to Computers, for Undergraduate.
+- 2019-now, Fundamentals of Multimedia Computing, for Postgraduate.
+- 2016-now, Technology of Multimedia Computing, for Undergraduate.
+- 2019-now, Introduction to Computers, for Undergraduate.
 
 <span class='anchor' id='team'></span>
 
