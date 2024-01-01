@@ -117,6 +117,7 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 
 # <font color="#2B6ADD"> Academic Service </font>
 + **Associate Editors:**
+  - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - Information Sciences
   - Visual Computer
