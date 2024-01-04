@@ -55,11 +55,9 @@ Video understanding, Action analysis, and related human-centric problems in Comp
 
 - **Xiangbo Shu**, Jinhui Tang, Zechao Li, Hanjiang Lai, Liyan Zhang, and Shuicheng Yan. Personalized Age Progression with Bi-level Aging Dictionary Learning. IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI), 2018. [PDF-Link](https://arxiv.org/pdf/1706.01039.pdf)
 
-- **Xiangbo Shu**, Liyan Zhang, Jinhui Tang, Guo-Sen Xie, Shuicheng Yan. Image Classification with Tailored Fine-Grained Dictionaries. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2018. [PDF-Link](https://web.archive.org/web/20170517065942id_/http://www.yugangjiang.info:80/publication/TCSVT-Shu.pdf)
+- **Xiangbo Shu**, Liyan Zhang, Jinhui Tang, Guo-Sen Xie, Shuicheng Yan. Computational Face Reader. MultiMedia Modeling (MMM), 2016. **(Best Student Paper)** [PDF-Link](https://link.springer.com/chapter/10.1007/978-3-319-27671-7_10)
 
-- **Xiangbo Shu**, Liyan Zhang, Jinhui Tang, Guo-Sen Xie, Shuicheng Yan. Computational Face Reader. MultiMedia Modeling (MMM), 2015. [PDF-Link](https://link.springer.com/chapter/10.1007/978-3-319-27671-7_10)
-
-- **Xiangbo Shu**, Guo-Jun Qi, Jinhui Tang, Jingdong Wang. Weekly-Shared Deep Transfer Networks for Heterogeneous-Domain Knowledge Propagation. ACM Multimedia (MM), 2015. [PDF-Link](https://shuxb104.github.io/paper/WSDT.pdf)
+- **Xiangbo Shu**, Guo-Jun Qi, Jinhui Tang, Jingdong Wang. Weekly-Shared Deep Transfer Networks for Heterogeneous-Domain Knowledge Propagation. ACM Multimedia (MM), 2015. **(Best Paper Candidate)** [PDF-Link](https://shuxb104.github.io/paper/WSDT.pdf)
 
 - **Xiangbo Shu**, Jinhui Tang, Hanjiang Lai, Luoqi Liu, Shuicheng Yan. Personalized Age Progression with Aging Dictionary. IEEE International Conference on Computer Vision (ICCV), 2015. [PDF-Link](https://openaccess.thecvf.com/content_iccv_2015/papers/Shu_Personalized_Age_Progression_ICCV_2015_paper.pdf)
 
