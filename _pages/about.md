@@ -147,7 +147,6 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
   - Neural Networks
   - Information Sciences
   - Pattern Analysis and Applications
-  - Multimedia Tools and Applications
   - Pattern Recognition Letters
   - Multimedia Systems
   
