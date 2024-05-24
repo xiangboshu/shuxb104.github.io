@@ -40,7 +40,7 @@ Video understanding, Action analysis, and related human-centric problems in Comp
 <span class='anchor' id='pub'></span>
 
 # <font color="#2B6ADD"> Selected Publications </font>
-<img align="left" width="330" height="240" src="../images/MAGC.png"/>
+
 
 - **Xiangbo Shu**, Binqian Xu, Liyan Zhang, Jinhui Tang. Multi-Granularity Anchor-Contrastive Representation Learning for Semi-supervised Skeleton-based Action Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. **(ESI Highly Cited Paper)** [PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/MGAC.pdf) [[Code-Link]](https://github.com/1xbq1/MAC-Learning)
 
