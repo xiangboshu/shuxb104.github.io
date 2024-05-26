@@ -41,28 +41,129 @@ Video understanding, Action analysis, and related human-centric problems in Comp
 
 # <font color="#2B6ADD"> Selected Publications </font>
 
+<style>
+  table {
+    border-collapse: collapse;
+  }
+  table, th, td {
+    border-color: transparent;
+  }
+</style>
 
-- **Xiangbo Shu**, Binqian Xu, Liyan Zhang, Jinhui Tang. Multi-Granularity Anchor-Contrastive Representation Learning for Semi-supervised Skeleton-based Action Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. **(ESI Highly Cited Paper)** [PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/MGAC.pdf) [[Code-Link]](https://github.com/1xbq1/MAC-Learning)
-
-- Jinhui Tang, **Xiangbo Shu\***, Rui Yan, and Liyan Zhang. Coherence Constrained Graph LSTM for Group Activity Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022. **(ESI Highly Cited Paper)**, **(ESI Hot Paper)** [PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/CCGL.pdf)
-
-- **Xiangbo Shu**, Liyan Zhang*, Guo-Jun Qi, Wei Liu, and Jinhui Tang. Spatiotemporal co-attention recurrent neural networks for human-skeleton motion prediction. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021. **(ESI Highly Cited Paper)** [PDF-Link](https://arxiv.org/pdf/1909.13245.pdf),
-
-- **Xiangbo Shu**, Liyan Zhang, Yunlian Sun, and Jinhui Tang. Host-Parasite: Graph LSTM-In-LSTM for Group Activity Recognition. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021. **(ESI Highly Cited Paper)** [PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/HPGL.pdf)
-
-- **Xiangbo Shu**, Jinhui Tang, Guo-Jun Qi, Wei Liu, and Jian Yang. Hierarchical Long Short-Term Concurrent Memory for Human Interaction Recognition. IEEE Transacti on Pattern Analysis and Machine Intelligence (TPAMI), 2021. **(ESI Highly Cited Paper)**, **(ESI Hot Paper)** [PDF-Link](https://arxiv.org/pdf/1811.00270.pdf)
-
-- Jinhui Tang, **Xiangbo Shu\***, Zechao Li, Yu-Gang Jiang, Qi Tian. Social Anchor-Unit Graph Regularized Tensor Completion for Large-Scale Image Retagging. IEEE Transactions on Pattern Analysis and Machine Intelligenc (TPAMI), 2019. [PDF-Link](https://arxiv.org/pdf/1804.04397.pdf)
-
-- **Xiangbo Shu**, Jinhui Tang, Zechao Li, Hanjiang Lai, Liyan Zhang, and Shuicheng Yan. Personalized Age Progression with Bi-level Aging Dictionary Learning. IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI), 2018. [PDF-Link](https://arxiv.org/pdf/1706.01039.pdf)
-
-- **Xiangbo Shu**, Liyan Zhang, Jinhui Tang, Guo-Sen Xie, Shuicheng Yan. Computational Face Reader. MultiMedia Modeling (MMM), 2016. **(Best Student Paper)** [PDF-Link](https://link.springer.com/chapter/10.1007/978-3-319-27671-7_10)
-
-- **Xiangbo Shu**, Guo-Jun Qi, Jinhui Tang, Jingdong Wang. Weekly-Shared Deep Transfer Networks for Heterogeneous-Domain Knowledge Propagation. ACM Multimedia (MM), 2015. **(Best Paper Candidate)** [PDF-Link](https://shuxb104.github.io/paper/WSDT.pdf)
-
-- **Xiangbo Shu**, Jinhui Tang, Hanjiang Lai, Luoqi Liu, Shuicheng Yan. Personalized Age Progression with Aging Dictionary. IEEE International Conference on Computer Vision (ICCV), 2015. [PDF-Link](https://openaccess.thecvf.com/content_iccv_2015/papers/Shu_Personalized_Age_Progression_ICCV_2015_paper.pdf)
-
-
+<table align="center" border="none">
+    <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/MAGC.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Xiangbo Shu</b>, Binqian Xu, Liyan Zhang, Jinhui Tang. Multi-Granularity Anchor-Contrastive Representation Learning for Semi-supervised Skeleton-based Action Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023.
+        <b>(ESI Highly Cited Paper)</b>
+        <a href="https://github.com/shuxb1s04/shuxb104.github.io/blob/main/paper/MGAC.pdf">[PDF-Link]</a>
+        <a href="https://github.com/1xbq1/MAC-Learning">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/CCGL.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        Jinhui Tang, <b>Xiangbo Shu*</b>, Rui Yan, and Liyan Zhang. Coherence Constrained Graph LSTM for Group Activity Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022. <b>(ESI Highly Cited Paper)</b>, <b>(ESI Hot Paper)</b> 
+        <a href="https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/CCGL.pdf">[PDF-Link]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/SCRN.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Xiangbo Shu</b>, Liyan Zhang*, Guo-Jun Qi, Wei Liu, and Jinhui Tang. Spatiotemporal co-attention recurrent neural networks for human-skeleton motion prediction. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021. <b>(ESI Highly Cited Paper)</b>
+        <a href="https://arxiv.org/pdf/1909.13245.pdf">[PDF-Link]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/GLIL.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Xiangbo Shu</b>, Liyan Zhang, Yunlian Sun, and Jinhui Tang. Host-Parasite: Graph LSTM-In-LSTM for Group Activity Recognition. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021. <b>(ESI Highly Cited Paper)</b>
+        <a href="https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/HPGL.pdf">[PDF-Link]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/H-LSCTM.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Xiangbo Shu</b>, Jinhui Tang, Guo-Jun Qi, Wei Liu, and Jian Yang. Hierarchical Long Short-Term Concurrent Memory for Human Interaction Recognition. IEEE Transacti on Pattern Analysis and Machine Intelligence (TPAMI), 2021. <b>(ESI Highly Cited Paper)</b>, <b>(ESI Hot Paper)</b>
+        <a href="https://arxiv.org/pdf/1811.00270.pdf">[PDF-Link]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/SUGAR.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        Jinhui Tang, <b>Xiangbo Shu</b>, Zechao Li, Yu-Gang Jiang, Qi Tian. Social Anchor-Unit Graph Regularized Tensor Completion for Large-Scale Image Retagging. IEEE Transactions on Pattern Analysis and Machine Intelligenc (TPAMI), 2019.
+        <a href="https://arxiv.org/pdf/1804.04397.pdf">[PDF-Link]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/PAP.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Xiangbo Shu</b>, Jinhui Tang, Zechao Li, Hanjiang Lai, Liyan Zhang, and Shuicheng Yan. Personalized Age Progression with Bi-level Aging Dictionary Learning. IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI), 2018.
+        <a href="https://arxiv.org/pdf/1706.01039.pdf">[PDF-Link]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/CFR.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Xiangbo Shu</b>, Liyan Zhang, Jinhui Tang, Guo-Sen Xie, Shuicheng Yan. Computational Face Reader. MultiMedia Modeling (MMM), 2016. <b>(Best Student Paper)</b>
+        <a href="https://link.springer.com/chapter/10.1007/978-3-319-27671-7_10">[PDF-Link]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/DTNs.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Xiangbo Shu</b>, Guo-Jun Qi, Jinhui Tang, Jingdong Wang. Weekly-Shared Deep Transfer Networks for Heterogeneous-Domain Knowledge Propagation. ACM Multimedia (MM), 2015. <b>(Best Paper Candidate)</b>        
+        <a href="https://shuxb104.github.io/paper/WSDT.pdf">[PDF-Link]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/PAPD.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Xiangbo Shu</b>, Jinhui Tang, Hanjiang Lai, Luoqi Liu, Shuicheng Yan. Personalized Age Progression with Aging Dictionary. IEEE International Conference on Computer Vision (ICCV), 2015.
+        <a href="https://openaccess.thecvf.com/content_iccv_2015/papers/Shu_Personalized_Age_Progression_ICCV_2015_paper.pdf">[PDF-Link]</a>
+        </p>
+      </td>
+    </tr>
+</table>
 
 For more papers, please kindly refer to [my Google Scholar page](https://scholar.google.com.hk/citations?user=FQfcm5oAAAAJ&hl=zh-CN&oi=ao).
 
