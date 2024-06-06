@@ -117,6 +117,7 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 + **Associate Editors:**
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+  - Pattern Recognition
   - Information Sciences
   - Visual Computer
 + **(Senior) Program Committee Member:**
