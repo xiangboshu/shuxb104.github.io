@@ -53,6 +53,19 @@ Video understanding, Action analysis, and related human-centric problems in Comp
 <table align="center" border="none">
     <tr>
       <td>
+        <img align="left" width="330" height="240" src="../images/DoFIT.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        Binqian Xu, <b>Xiangbo Shu*</b>, Haiyang Mei, Zechen Bai, Basura Fernando, Mike Zheng Shou, Jinhui Tang. DoFIT: Domain-aware Federated Instruction Tuning with Alleviated Catastrophic Forgetting. The Thirty-eighth Annual Conference on Neural Information Processing Systems.
+        <a href="https://openreview.net/pdf?id=FDfrPugkGU">[PDF-Link]</a>
+        <a href="https://github.com/1xbq1/DoFIT">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+    <tr>
+      <td>
         <img align="left" width="330" height="240" src="../images/MAGC.png"/>
       </td>
       <td>
