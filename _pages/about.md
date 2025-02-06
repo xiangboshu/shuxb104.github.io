@@ -130,6 +130,7 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
   - AAAI Conference on Artificial Intelligence (AAAI)
   - International Joint Conference on Artificial Intelligence (IJCAI)
   - International Conference on Multimedia and Expo (ICME)
+  - International Conference on Machine Learning (ICML)
 + **Reviewer for Journals:**
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   - International Journal of Computer Vision (IJCV)
@@ -150,7 +151,6 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
   - Neural Networks
   - Information Sciences
   - Pattern Analysis and Applications
-  - Multimedia Tools and Applications
   - Pattern Recognition Letters
   - Multimedia Systems
   
