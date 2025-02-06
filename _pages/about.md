@@ -102,9 +102,11 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
   + Ph.D. Candidates (2021-now): Binqian Xu
   + Ph.D. Candidates (2022-now): Guangzhao Dai
   + Ph.D. Candidates (2023-now): Pengpeng Li, Meiqi Cao
+  + Ph.D. Candidates (2023-now): Qongyu Qu, Jinjin Gong
   + M.S. Candidates (2021-now): Keke Chen, Zhewei Tu
   + M.S. Candidates (2022-now): Hailiang Gao, Wei Liu, Yunguo Ma
-  + M.S. Candidates (2023-now): Jinjin Gong, Luying Peng, Hongyu Qu, Yumeng Su
+  + M.S. Candidates (2023-now): Luying Peng, Yumeng Su
+  + M.S. Candidates (2024-now): Chenghao Hu, Zheng Yin, Jingyuan Wang, Wenxuan Ge
 + Alumni:
   + Ph.D. Candidates (2013-2020): Mengyin Wang
   + Ph.D. Candidates (2017-2022): Rui Yan
