@@ -5,7 +5,10 @@ main:
 
   - title: "Research Interests"
     url: "/#r-interests"
-
+    
+  - title: "News"
+    url: "/#news"
+    
   - title: "Selected Publications"
     url: "/#pub"
 
