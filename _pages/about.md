@@ -37,9 +37,7 @@ Video understanding, Action analysis, and related human-centric problems in Comp
  <i style="font-family: Roboto;">We are looking for students, who are self-motivated and have a solid foundation in mathematics and programming. Please feel free to drop me an email (shuxb@njust.edu.cn) if you are interested.</i>
 </font>
 
-<span class='anchor' id='pub'></span>
-
-
+<span class='anchor' id='news'></span>
 # <font color="#2B6ADD"> News </font>
 <table border="0">
   <tr>
@@ -48,6 +46,7 @@ Video understanding, Action analysis, and related human-centric problems in Comp
   </tr>
 </table>
 
+<span class='anchor' id='pub'></span>
 # <font color="#2B6ADD"> Selected Publications </font>
 
 <style>
