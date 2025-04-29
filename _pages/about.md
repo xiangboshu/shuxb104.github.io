@@ -49,11 +49,11 @@ Video understanding, Action analysis, and related human-centric problems in Comp
 
 - **Xiangbo Shu**, Liyan Zhang, Yunlian Sun, and Jinhui Tang. Host-Parasite: Graph LSTM-In-LSTM for Group Activity Recognition. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021. **(ESI Highly Cited Paper)** [PDF-Link](https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/HPGL.pdf)
 
-- **Xiangbo Shu**, Jinhui Tang, Guo-Jun Qi, Wei Liu, and Jian Yang. Hierarchical Long Short-Term Concurrent Memory for Human Interaction Recognition. IEEE Transacti on Pattern Analysis and Machine Intelligence (TPAMI), 2021. **(ESI Highly Cited Paper)**, **(ESI Hot Paper)** [PDF-Link](https://arxiv.org/pdf/1811.00270.pdf)
+- **Xiangbo Shu**, Jinhui Tang, Guo-Jun Qi, Wei Liu, and Jian Yang. Hierarchical Long Short-Term Concurrent Memory for Human Interaction Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021. **(ESI Highly Cited Paper)**, **(ESI Hot Paper)** [PDF-Link](https://arxiv.org/pdf/1811.00270.pdf)
 
-- Jinhui Tang, **Xiangbo Shu\***, Zechao Li, Yu-Gang Jiang, Qi Tian. Social Anchor-Unit Graph Regularized Tensor Completion for Large-Scale Image Retagging. IEEE Transactions on Pattern Analysis and Machine Intelligenc (TPAMI), 2019. [PDF-Link](https://arxiv.org/pdf/1804.04397.pdf)
+- Jinhui Tang, **Xiangbo Shu\***, Zechao Li, Yu-Gang Jiang, Qi Tian. Social Anchor-Unit Graph Regularized Tensor Completion for Large-Scale Image Retagging. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019. [PDF-Link](https://arxiv.org/pdf/1804.04397.pdf)
 
-- **Xiangbo Shu**, Jinhui Tang, Zechao Li, Hanjiang Lai, Liyan Zhang, and Shuicheng Yan. Personalized Age Progression with Bi-level Aging Dictionary Learning. IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI), 2018. [PDF-Link](https://arxiv.org/pdf/1706.01039.pdf)
+- **Xiangbo Shu**, Jinhui Tang, Zechao Li, Hanjiang Lai, Liyan Zhang, and Shuicheng Yan. Personalized Age Progression with Bi-level Aging Dictionary Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2018. [PDF-Link](https://arxiv.org/pdf/1706.01039.pdf)
 
 - **Xiangbo Shu**, Liyan Zhang, Jinhui Tang, Guo-Sen Xie, Shuicheng Yan. Computational Face Reader. MultiMedia Modeling (MMM), 2016. **(Best Student Paper)** [PDF-Link](https://link.springer.com/chapter/10.1007/978-3-319-27671-7_10)
 
