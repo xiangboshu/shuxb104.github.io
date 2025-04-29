@@ -42,7 +42,8 @@ Video understanding, Action analysis, and related human-centric problems in Comp
 # <font color="#2B6ADD"> News </font>
 
 - I was invited to be an Area Chair for ACM MM 2025.
-- One paper "DoFIT: Domain-aware Federated Instruction Tuning with Alleviated Catastrophic Forgetting" has been accepted for presentation at NeurIPS 2024.
+- Two papers "3D-aware Select, Expand, and Squeeze Token for Aerial Action Recognition", and "Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection" have been accepted by NeurIPS 2024
+- One paper "DoFIT: Domain-aware Federated Instruction Tuning with Alleviated Catastrophic Forgetting" has been accepted by NeurIPS 2024.
 
 
 # <font color="#2B6ADD"> Selected Publications </font>
