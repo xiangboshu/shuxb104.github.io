@@ -40,9 +40,13 @@ Video understanding, Action analysis, and related human-centric problems in Comp
 <span class='anchor' id='news'></span>
 # <font color="#2B6ADD"> News </font>
 <table border="0">
+    <tr>
+    <td>Sept. 2024</td>
+    <td>One paper has been accepted for presentation at NeurIPS 2024.</td>
+  </tr>
   <tr>
     <td>Sept. 2024</td>
-    <td>One federated LLMs instruction tuning paper has been accepted for presentation at NeurIPS 2024.</td>
+    <td>One paper has been accepted for presentation at NeurIPS 2024.</td>
   </tr>
 </table>
 
