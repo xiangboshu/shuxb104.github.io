@@ -48,8 +48,8 @@ Video understanding, Action analysis, and related human-centric problems in Comp
 - Two papers "3D-aware Select, Expand, and Squeeze Token for Aerial Action Recognition", and "Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection" have been accepted by NeurIPS 2024.
 - One paper "DoFIT: Domain-aware Federated Instruction Tuning with Alleviated Catastrophic Forgetting" has been accepted by NeurIPS 2024.
 - One paper "DTS-TPT: Dual Temporal-Sync Test-time Prompt Tuning for Zero-shot Activity Recognition" has been accepted by IJCAI 2024.
-- Our work GPT4Ego targeting on Unleashing the Potential of Pre-trained Models for Zero-Shot Egocentric Action Recognition was accepted by TMM.
-- Our work Semantic-Disentangled Transformer was accepted by TIP.
+- Our work **GPT4Ego** targeting on Unleashing the Potential of Pre-trained Models for Zero-Shot Egocentric Action Recognition was accepted by TMM.
+- Our work (**Semantic-Disentangled Transformer**) was accepted by TIP.
 
 # <font color="#2B6ADD"> Selected Publications </font>
 
