@@ -41,8 +41,10 @@ Video understanding, Action analysis, and related human-centric problems in Comp
 
 # <font color="#2B6ADD"> News </font>
 
-- One paper "Reliable and Diverse Hierarchical Adapter for Zero-shot Video Classification" have been accepted by IJCAI 2025.
+- One paper "Reliable and Diverse Hierarchical Adapter for Zero-shot Video Classification" has been accepted by IJCAI 2025.
 - I was invited to be an Area Chair for ACM MM 2025.
+- One paper "Seeing What Matters: Empowering CLIP with Patch Generation-to-Selection" has been accepted by CVPR 2025.
+- One paper "Surgical video workflow analysis via visual-language learning" has been accepted by npj Health Systems.
 - Two papers "3D-aware Select, Expand, and Squeeze Token for Aerial Action Recognition", and "Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection" have been accepted by NeurIPS 2024.
 - One paper "DoFIT: Domain-aware Federated Instruction Tuning with Alleviated Catastrophic Forgetting" has been accepted by NeurIPS 2024.
 - One paper "DTS-TPT: Dual Temporal-Sync Test-time Prompt Tuning for Zero-shot Activity Recognition" has been accepted by IJCAI 2024.
