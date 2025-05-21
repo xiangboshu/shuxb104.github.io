@@ -43,7 +43,7 @@ Video understanding, Action analysis, and related human-centric problems in Comp
 - I was invited to be an Area Chair for ACM MM 2025.
 - One paper "Seeing What Matters: Empowering CLIP with Patch Generation-to-Selection" has been accepted by CVPR 2025.
 - One paper "Surgical video workflow analysis via visual-language learning" has been accepted by npj Health Systems.
-- Two papers "3D-aware Select, Expand, and Squeeze Token for Aerial Action Recognition", and "Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection" have been accepted by NeurIPS 2024.
+- Two papers "3D-aware Select, Expand, and Squeeze Token for Aerial Action Recognition", and "Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection" have been accepted by AAAI 2024.
 - One paper "DoFIT: Domain-aware Federated Instruction Tuning with Alleviated Catastrophic Forgetting" has been accepted by NeurIPS 2024.
 - One paper "DTS-TPT: Dual Temporal-Sync Test-time Prompt Tuning for Zero-shot Activity Recognition" has been accepted by IJCAI 2024.
 - Our work GPT4Ego targeting on Unleashing the Potential of Pre-trained Models for Zero-Shot Egocentric Action Recognition was accepted by TMM.
@@ -228,9 +228,11 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
   + Ph.D. Candidates (2021-now): Binqian Xu
   + Ph.D. Candidates (2022-now): Guangzhao Dai
   + Ph.D. Candidates (2023-now): Pengpeng Li, Meiqi Cao
+  + Ph.D. Candidates (2024-now): Hongyu Qu, Jinjin Gong
   + M.S. Candidates (2021-now): Keke Chen, Zhewei Tu
   + M.S. Candidates (2022-now): Hailiang Gao, Wei Liu, Yunguo Ma
   + M.S. Candidates (2023-now): Jinjin Gong, Luying Peng, Hongyu Qu, Yumeng Su
+  + M.S. Candidates (2024-now): Chenghao Hu, Jionyuan Wang, Zhen Yin, Wenxuan Ge
 + Alumni:
   + Ph.D. Candidates (2013-2020): Mengyin Wang
   + Ph.D. Candidates (2017-2022): Rui Yan
